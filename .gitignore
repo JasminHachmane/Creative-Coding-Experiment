@@ -1,2 +1,3 @@
-*.html
-*.js
+# negeer alleen bepaalde dingen, maar laat projectbestanden zien
+.vscode/
+*.log
